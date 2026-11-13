@@ -1,4 +1,4 @@
-
+#include <stdbool.h>
 /*
  * Problem: Palindrome Number
  * Description: Return true if the given integer reads the same
